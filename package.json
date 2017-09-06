@@ -1,0 +1,28 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "I am a test bot",
+  "main": "t_bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sneezembop/TwitterBot.git"
+  },
+  "keywords": [
+    "tester",
+    "twitter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sneezembop/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/Sneezembop/TwitterBot#readme",
+  "dependencies": {
+    "jimp": "^0.2.27",
+    "twit": "^2.2.5"
+  }
+}
